@@ -1,4 +1,4 @@
-body {
+ body {
   color: brown;
 }
 
@@ -6,19 +6,18 @@ h1 {
   color: red;
 }
 
-.quote {
+.quote{
   color: gray;
 }
 
 .quote.narrator {
   color: black;
+  font-size: 32px;
 }
 
-#intro p {
-  color: green;
+.celebration{
+  background-color: pink;
+  color: yellow;
+  font-size: 32px;
 }
 
-.super-important-omg {
-  font-size: 20px;
-  background-color: yellow;
-}
